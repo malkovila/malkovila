@@ -5,6 +5,7 @@
 
 [![Telegram: malkovila](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/malkovila)
 [![GitHub](https://img.shields.io/github/followers/malkovila?label=follow&style=social)](https://github.com/malkovila)
+📝 Checkout my [resume](https://drive.google.com/file/d/1ONa1_2OYW6qQYm5gNCjwkwWmYHCUest0/view?usp=sharing)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
