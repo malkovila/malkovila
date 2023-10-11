@@ -11,9 +11,16 @@
 ```javascript
 const malkovila = {
   pronouns: "he" | "his",
+
   code: [C++, C, Python],
+
   tools: [Django, Qt, RestApi, API, Linux, Flask, SQL, MySQL, PostgreSQL, Git],
-  about_me: ["I am a backend developer. Easily adaptable to any of the most complex tasks, ready to always explore a new technology stack."]
+
+  about_me: ["I am a backend developer.
+	     Easily adaptable to any of the most complex tasks,
+	     ready to always explore a new technology stack."
+	     ],
+
   challenge: "I am doing the #100DaysOfCode challenge focused on Cpp and Python"
 }
 ```
