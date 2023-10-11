@@ -16,7 +16,8 @@ const malkovila = {
 
   tools: [Django, Qt, RestApi, API, Linux, Flask, SQL, MySQL, PostgreSQL, Git],
 
-  about_me: ["I am a backend developer.
+  about_me: [
+	     "I am a backend developer.
 	     Easily adaptable to any of the most complex tasks,
 	     ready to always explore a new technology stack."
 	     ],
