@@ -10,6 +10,7 @@
 
 ```javascript
 const malkovila = {
+
   pronouns: "he" | "his",
 
   code: [C++, C, Python],
