@@ -1,8 +1,10 @@
 <h2> Hi, I'm Ilia Malkov<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+📝 Checkout my [resume](https://drive.google.com/file/d/1ONa1_2OYW6qQYm5gNCjwkwWmYHCUest0/view?usp=sharing)
 <img align='right' src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="230">
 <br>
 <p><em>Student at <a href="https://www.hse.ru/">High school of economics</a></br>
-📝 Checkout my [resume](https://drive.google.com/file/d/1ONa1_2OYW6qQYm5gNCjwkwWmYHCUest0/view?usp=sharing)
+
+
 [![Telegram: malkovila](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/malkovila)
 [![GitHub](https://img.shields.io/github/followers/malkovila?label=follow&style=social)](https://github.com/malkovila)
 
